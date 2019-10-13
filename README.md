@@ -12,4 +12,4 @@ varies a lot. We padded all images to the size of the image with maximum size wi
 resized all images to 1024x1024 to be able to fit the GPU memory.
 
 ### Class color encodings
-![histology_color_encoding](/imgs/histology_color_encoding.png)
+<div style="text-align:center"><img src="/imgs/histology_color_encoding.png" /></div>
